@@ -32,8 +32,9 @@
 	source name/bin/activate
 
 	```
-- 
+
 - Run server in devops directory
+
 	```
 
 	python3 manage.py runserver
